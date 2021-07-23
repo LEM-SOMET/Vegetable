@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/shop"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping"
+        android:title="Shopping"/>
+    <item
+        android:id="@+id/like"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorite"/>
+    <item
+        android:id="@+id/peronal"
+        android:enabled="true"
+        android:icon="@drawable/ic_person_pin"
+        android:title="Personal"/>
+
+</menu>
